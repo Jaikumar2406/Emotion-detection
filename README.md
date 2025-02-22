@@ -36,7 +36,3 @@ pip install tensorflow opencv-python numpy matplotlib
 
 ## Contributing
 Feel free to fork this repository and contribute by improving the model, adding more emotions, or enhancing the prediction accuracy.
-
-## License
-This project is open-source and available under the MIT License.
-
